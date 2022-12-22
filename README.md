@@ -1,6 +1,6 @@
-                                                         🙋 Hi, I'm Muskan
+                                                         🙋 Hi, I'm Rakshit
 
-<!--
+ 
  
 
 - 🔭 I’m currently working on Image Processing
@@ -10,4 +10,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am ready to eplore!!!
--->
