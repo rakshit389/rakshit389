@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Computer Vision**
 
-- 👯 I’m looking to collaborate on **Web Development**
-
 - 💬 Ask me about **C , C++**
 
 - ⚡ Fun fact **Explorer!!!**
