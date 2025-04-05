@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer & Architecting**
 
-- 💬 Ask me about **C , C++**
+- 💬 Ask me about **AWS, Node, Python**
 
 - ⚡ Fun fact **Explorer!!!**
 
