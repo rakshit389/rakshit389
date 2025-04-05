@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working as **Full Stack Developer & Architecting**
+- 🔭 I’m currently working as **Full Stack Developer & Software Architect**
 
 - 💬 Ask me about **AWS, Node, Python**
 
