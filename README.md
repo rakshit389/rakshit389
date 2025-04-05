@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakshit</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working as **Full Stack Developer & Architecting**
 
 - 💬 Ask me about **C , C++**
 
